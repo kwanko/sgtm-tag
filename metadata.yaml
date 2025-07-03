@@ -1,7 +1,7 @@
 homepage: "https://www.kwanko.com"
 documentation: "https://github.com/kwanko/sgtm-tag"
 versions:
-  - sha: 6243959620b11a3120b7c07d39ac78dca6e2ab3e
+  - sha: e3c9b23281486597b8cedd83155db60fafd07ea9
     changeNotes: v1.0 release
   - sha: d95cd94f818fdb70058f9934bb859949e2e9bb98
     changeNotes: initial commit
