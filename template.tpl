@@ -6,7 +6,7 @@
   "version": 1,
   "securityGroups": [],
   "displayName": "Kwanko SGTM template",
-  "categories": ["AFFILIATE_MARKETING", "ADVERTISING"]
+  "categories": ["AFFILIATE_MARKETING", "ADVERTISING"],
   "brand": {
     "id": "brand_dummy",
     "displayName": "Kwanko",
